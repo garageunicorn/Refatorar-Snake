@@ -15,7 +15,7 @@ def collision(c1, c2):
 UP = 0
 RIGHT = 1
 DOWN = 2
-LEFT = 3
+LEFT = 4
 
 my_direction_ai = LEFT
 
